@@ -1,0 +1,152 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter from the camp near the river Ricton the fourteenth of August</title>
+            <author>R. M.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1674</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B09459</idno>
+            <idno type="STC">Wing M72A</idno>
+            <idno type="STC">ESTC R224405</idno>
+            <idno type="EEBO-CITATION">64551374</idno>
+            <idno type="OCLC">ocm 64551374</idno>
+            <idno type="VID">184646</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B09459)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 184646)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2869:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter from the camp near the river Ricton the fourteenth of August</title>
+                  <author>R. M.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed in the year 1674.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Signed: R. M.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Imperfect: broadside has faded print.</note>
+                  <note>Reproduction of original in: Harvard University. Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>William --  III, --  King of England, 1650-1702.</term>
+               <term>Anglo-Dutch War, 1664-1667 --  Sources.</term>
+               <term>Great Britain --  History --  Charles II, 1660-1685 --  Sources.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:184646:1"/>
+            <head>A LETTER From the Camp near the River</head>
+            <opener>
+               <dateline>Ricton <date>the fo<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rteenth of <hi>A<g ref="char:V">Ʋ</g>GUST.</hi>
+                  </date>
+               </dateline>
+            </opener>
+            <p>AS thoſe that are ſaved from a Shipwrac<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> delight themſelves exceedingly in relating thoſe dangers they have avoided, ſo I think it is very juſt, that after a bloudy Battell, I may have the pleaſure to tell you the particulers of it. The Zeal I ha<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e for the glory of my Prince, and the Employment with which he hath honoured me in his Army made me a party concerned in this Action. To entertain you Cavalieremen of a Battell, that is now the univerſal talk of all <hi>Europe:</hi> I will tell you the particulers of it the moſt impartially and the moſt ſuccinctly that I can.</p>
+            <p>The tenth of <hi>Auguſt</hi> the Prince of <hi>Conde,</hi> was informed by a Spye, that the Confedrate Army was to March towards <hi>Marimont,</hi> upon that advice His Highneſs ſent the Count of St. <hi>Martins</hi> with five hundred Horſe to diſcover the truth of this Report, he had the good fortune to meet with a Party of two hundred Dutch Horſe, he fell upon them briskly, and after a ſhort reſiſtance in which moſt of them were Killed, and the reſt taken Priſoners, he came back to our Camp and his Priſoners did confirm the truth of thoſe informations we had received from our Spye immediately after the Prince of <hi>Conde</hi> gave Orders that the whole Army ſhould be in a readineſs to March and to Fight, and Satturday laſt at break of the day, we went out of our Frenches, our General ſent five thouſand men to take poſſeſſion of a Wood, as a Poſt very commo<g ref="char:EOLhyphen"/>dious, and of great advantage to our Army, to be ſhort, about ten of the Clock in the morning our Men fell upon the Rear of the Enemy, the Spaniards that compoſed it, were the firſt expoſed to the fury of our Souldiers, and in <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſs then two hours they were forced to Retire in great conf<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſion to the main Body of the Dutch. A little before his Highneſs had ſent ten thouſand Men to attaque eight Regiments that the Prince of <hi>Orange</hi> had left to keep his bag<g ref="char:EOLhyphen"/>gage, the ſight was vigorouſly diſputed in this place, but at laſt the French made themſelves Maſters of it. So far the Enemies had loſt ſix times more men then we. <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ut the Van of our Enemies com<g ref="char:EOLhyphen"/>poſed of the Germans turning fell upon our Troops the Maſſacre was here the greateſt and the moſt terrible, about ſix of the Clock both Armies were wholly ingaged. The Confederates had at leaſt fifteen thouſand men more then we, but magure thoſe odds we forc'd them to Retire, and to abandon us the victory, the Spaniards have loſt about four thouſand men, the Dutch as many, but the ſlaugh<g ref="char:EOLhyphen"/>ter was greateſt of all amongſt the Germans for above five thou<g ref="char:EOLhyphen"/>ſand of them were left dead or mortally wounded upon the Field, we have loſt above four thouſand men, and amongſt them about eight hundred Gentlemen Of two Italian Regiments that were in the Confedrates Army there are hardly men enough left to make up a Company <hi>Mondony</hi> one of the Collonels was killed, and the Mar<g ref="char:EOLhyphen"/>quis de Sarondi is Priſoner and dangerouſly wounded, the Regi<g ref="char:EOLhyphen"/>ments of Holſtein of Waldeck, of Vaudemont, Medode and Lor<g ref="char:EOLhyphen"/>rain, have not above five hundred men left, the Marquis Daſlentar who Commanded the Spaniſh Cavalry, was taken priſoner and dy<g ref="char:EOLhyphen"/>ed laſt night of his wounds: Le Marquis del Guardo, le Comte de Falſtanel, and le Marquis don Alonzo del Prado were killed. The Prince of Salme the Duke of Holſtein the Comte de Merode are Pri<g ref="char:EOLhyphen"/>ſoners, le Prince Pio, le Prince Charls de Lorrain, le Comte de St. Cuarin, le Marquis del cada are dangerouſly wounded, we hard yeſterday that Geneaal Souches had been wounded with a Piſtoll ſhot in the Shoulder, but without any danger. The Prince of <hi>Orange,</hi> eſcaped without any hurt though he thruſted himſelf into the thickeſt of our Troops all our Officers do praiſe exceedingly the ſtout Carriage of that young General. There is a true relation of our Enemies loſſes, ours are nothing ſo great, but yet they are conſiderable enough our General was preſerved as by a Miracle for he had two horſes killed under him. He acted the part of a Com<g ref="char:EOLhyphen"/>mander like a judicious and experienced Prince, and that of a Soul<g ref="char:EOLhyphen"/>dier like a ſtout Man. His ſon the brave Duke of Enguin, that ſon ſo worthy of ſuch a Father did wonders in this Battell but I fear that his glorious actions will coſt us very dear ſince in all probability his wounds will prove mortal, the Duke of Navailles has done no<g ref="char:EOLhyphen"/>thing in this occaſion contrary to the glory of his paſt actions. Lux<g ref="char:EOLhyphen"/>emburg behaved himſelf like a gallant Souldier, and a wiſe and a ſtout Commander, he is wounded with a Pike in the ſide but not dangerouſly In ſhort the wheſe Army did all that could be expect<g ref="char:EOLhyphen"/>ed from gallant men, we have loſt a great many men of quality in this Battell and amongſt the reſt the Comte de Boiſe, le Marquis de Merillon, le Comte de Luſtan, le Vice-comte de Herrer le Che<g ref="char:EOLhyphen"/>valier de Lauerdun, are Killed. Monſieure le Comte de Montal, after a thouſand actions of valour was wounded in four ſeverall place, but the moſt dangerous is of a Musket ſhot in the Thigh, le Cheva<g ref="char:EOLhyphen"/>lier de Fourilles the Comte de Buiſton le Marquis de Beaurgard are dangerouſly wounded, our Brother that Commanded the Re<g ref="char:EOLhyphen"/>giment of Vandeſme in the abſence of the young Collonel is wounded in three ſeveral places, but without any danger of his life, he hath loſt above eight hundred men of his Regiment, for my part I have been ſo happy as to ſcape without any hurt from an occaſion where Death had ſo plentiful a Harveſt, we are in a daily expectation of a ſecond Battell for the Prince is reſolved to attaque the Enemy once more upon any favourable occaſion it I am ſo happy to ſcape a live from the neat as I have from the laſt. I will let you know all the particulars of it. In the intreim give me leave to aſſure you that no man in the world loves you better then,</p>
+            <closer>
+               <signed>Your ever kind friend and humble ſervant: <hi>R. M.</hi>
+               </signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed in the year 1674.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
